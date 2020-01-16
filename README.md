@@ -6,7 +6,7 @@ Wie macht sich die Klimaerwärmung in der Zürichsee-Region bemerkbar? Analyse d
 
 Klimabilanz 2019 (Zürcher Regionalzeitungen): \
 https://www.zsz.ch/horgen/ein-weiteres-jahr-der-klimaextreme/story/16430930 \
-Die Klimaveränderung am Zürichsee seit 1961: \
+Die Klimaveränderung am Zürichsee seit 1961:
 
 ## Idee und Ausgangslage
 
@@ -30,6 +30,8 @@ Stephan Bader, Klimatologe bei Meteoschweiz, wohnhaft in Uetikon (also auch aus 
 
 ## Daten und Code
 
-[###Der Code](https://github.com/MartinSteinegger/Klimaerw-rmung-am-Z-richsee/blob/master/Klima%20W%C3%A4denswil.ipynb)
+[Der Code](https://github.com/MartinSteinegger/Klimaerw-rmung-am-Z-richsee/blob/master/Klima%20W%C3%A4denswil.ipynb)\
+[Die Grafiken]
+
 
 
