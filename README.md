@@ -1,6 +1,6 @@
 # Klimaerwärmung am Zürichsee
 
-Wie macht sich di Klimaerwärmung in der Zürichsee-Region bemerkbar? Analyse der Daten der Wetterstation Wädenswil seit 1981 (Temperatur) und Niederschlag (seit 1961).
+Wie macht sich die Klimaerwärmung in der Zürichsee-Region bemerkbar? Analyse der Daten der Wetterstation Wädenswil seit 1981 (Temperatur) und Niederschlag (seit 1961).
 
 ### Mit der Datenanalyse publizierte Artikel
 
