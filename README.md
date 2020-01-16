@@ -2,7 +2,7 @@
 
 Wie macht sich die Klimaerwärmung in der Zürichsee-Region bemerkbar? Analyse der Daten der Wetterstation Wädenswil seit 1981 (Temperatur) und Niederschlag (seit 1961).
 
-## Mit der Datenanalyse publizierte Artikel
+## Mit den Resultaten der Datenanalyse publizierte Artikel
 
 Klimabilanz 2019 (Zürcher Regionalzeitungen): \
 https://www.zsz.ch/horgen/ein-weiteres-jahr-der-klimaextreme/story/16430930 \
