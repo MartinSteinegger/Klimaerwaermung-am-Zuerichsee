@@ -14,4 +14,16 @@ Die Auswirkungen der Klimaerwärmung werden immer deutlicher. Die Durchschnittst
 
 Das Klima in der Zürichseeregion hat sich in den letzten 40 Jahren markant erwärmt. Das zeigt die Analyse der Wetterdaten der SMA-Station Wädenswil. Die Erwärmung zeigt sich über alle Jahreszeiten, besonders markant aber im Sommer und in den Übergangsmonaten. Beim Niederschlag ist anhand der Daten (noch) kein eindeutiger Trend zu beobachten. Die Erwärmung zeigt sich zudem in einer Zunahme der Hitzetage (über 30 Grad) und einer gleichzeitigen Abnahme der Frosttage (unter 0 Grad).
 
+### Einschätzung von Aufwand und Ertrag
+
+Die Daten sind in gut aufbereiteter Form (.xls und .txt) vorhanden. Das Einlesen der Daten dürfte nicht viel Aufwand verursachen, der Code ist simpel. Komplexer ist die mathematische / grafische Schiene dieser Story. Die Durchschnittswerte müssen korrekt berechnet werden und die Charts müssen aussagekräftig sein.
+
+### Knackpunkte
+
+Grafische Darstellung, hohe Fehleranfälligkeit durch viel Rechnerei.
+
+### Briefing- und Fachperson
+
+Stephan Bader, Klimatologe bei Meteoschweiz, wohnhaft in Uetikon (also auch aus der Zürichseeregion).
+
 
