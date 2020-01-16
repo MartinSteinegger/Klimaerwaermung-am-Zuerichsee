@@ -5,6 +5,7 @@ Wie macht sich die Klimaerwärmung in der Zürichsee-Region bemerkbar? Analyse d
 ### Mit der Datenanalyse publizierte Artikel
 
 Klimabilanz 2019 (Zürcher Regionalzeitungen): https://www.zsz.ch/horgen/ein-weiteres-jahr-der-klimaextreme/story/16430930
+Die Klimaveränderung am Zürichsee seit 1961: 
 
 ### Idee
 
@@ -12,7 +13,7 @@ Die Auswirkungen der Klimaerwärmung werden immer deutlicher. Die Durchschnittst
 
 ### These
 
-Das Klima in der Zürichseeregion hat sich in den letzten 40 Jahren markant erwärmt. Das zeigt die Analyse der Wetterdaten der SMA-Station Wädenswil. Die Erwärmung zeigt sich über alle Jahreszeiten, besonders markant aber im Sommer und in den Übergangsmonaten. Beim Niederschlag ist anhand der Daten (noch) kein eindeutiger Trend zu beobachten. Die Erwärmung zeigt sich zudem in einer Zunahme der Hitzetage (über 30 Grad) und einer gleichzeitigen Abnahme der Frosttage (unter 0 Grad).
+Das Klima in der Zürichseeregion hat sich in den letzten 40 Jahren überdurchschnittlich stark erwärmt (im Vergleich zu den über die ganze Schweiz gemittelten Werten). Das zeigt die Analyse der Wetterdaten der SMA-Station Wädenswil. Die Erwärmung zeigt sich über alle Jahreszeiten, besonders markant aber im Sommer und in den Übergangsmonaten. Beim Niederschlag ist anhand der Daten (noch) kein eindeutiger Trend zu beobachten. Die Erwärmung zeigt sich zudem in einer Zunahme der Hitzetage (über 30 Grad) und einer gleichzeitigen Abnahme der Frosttage (unter 0 Grad).
 
 ### Einschätzung von Aufwand und Ertrag
 
@@ -25,5 +26,9 @@ Grafische Darstellung, hohe Fehleranfälligkeit durch viel Rechnerei.
 ### Briefing- und Fachperson
 
 Stephan Bader, Klimatologe bei Meteoschweiz, wohnhaft in Uetikon (also auch aus der Zürichseeregion).
+
+### Daten und Code
+
+
 
 
