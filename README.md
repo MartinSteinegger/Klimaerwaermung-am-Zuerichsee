@@ -22,7 +22,7 @@ Die Daten sind in gut aufbereiteter Form (.xls und .txt) vorhanden. Das Einlesen
 
 ### Knackpunkte
 
-Grafische Darstellung, hohe Fehleranfälligkeit durch viel Rechnerei.
+Grafische Darstellung (Pandas auf Highlevel), hohe Fehleranfälligkeit durch viel Rechnerei.
 
 ### Briefing- und Fachperson
 
@@ -30,6 +30,6 @@ Stephan Bader, Klimatologe bei Meteoschweiz, wohnhaft in Uetikon (also auch aus 
 
 ### Daten und Code
 
-
+[Code](https://www.srf.ch/sendungen/treffpunkt/influencer-die-umstrittenen-werbetraeger-der-heutigen-jugend)
 
 
