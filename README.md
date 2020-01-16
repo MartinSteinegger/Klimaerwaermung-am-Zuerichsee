@@ -10,7 +10,7 @@ Die Klimaveränderung am Zürichsee seit 1961:
 
 ## Idee und Ausgangslage
 
-Die Auswirkungen der Klimaerwärmung werden immer deutlicher. Die Durchschnittstemperaturen steigen, markante Hitzephasen im Sommer werden zur Regel, die Winter werden milder. In der Regel sind statistische Auswertungen dazu aber nur grossflächig, das heisst schweizweit gemittelt und für bekannte Orte (Genf, Zürich, Bern, etc.) zu finden. Regionale Daten, welche die Entwicklung sozusagen "vor der Haustüre" verdeutlichen, werden selten analysiert und dargestellt. Dabei wären sie vorhanden, Meteoschweiz stellt sie frei zur Verfügung. Ich schnappe mir den entsprechenden Datensatz der SMA-Wetterstation Wädenswil und analysiere ihn. Ziel ist es, die Auswirkungen der Klimaerwärmung mit regionalem Fokus für einen regionalen Medientitel (Zürichsee-Zeitung) aufzubereiten.
+Die Auswirkungen der Klimaerwärmung werden immer deutlicher. Die Durchschnittstemperaturen steigen, markante Hitzephasen im Sommer werden zur Regel, die Winter werden milder. In der Regel sind statistische Auswertungen dazu aber nur grossflächig gemittelt und für "bekannte" Orte (Genf, Zürich, Bern, etc.) zu finden. Regionale Daten, welche die Entwicklung sozusagen "vor der Haustüre" verdeutlichen, werden selten analysiert. Dabei wären sie vorhanden, Meteoschweiz stellt sie frei zur Verfügung. Ich schnappe mir den entsprechenden Datensatz der SMA-Wetterstation Wädenswil und analysiere ihn. Ziel ist es, die Auswirkungen der Klimaerwärmung mit regionalem Fokus für einen regionalen Medientitel (Zürichsee-Zeitung) aufzubereiten.
 
 ## Die These
 
