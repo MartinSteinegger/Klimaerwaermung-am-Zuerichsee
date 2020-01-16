@@ -26,7 +26,7 @@ Grafische Darstellung (Pandas auf Highlevel), hohe Fehleranfälligkeit durch vie
 
 ## Briefing- und Fachperson
 
-Stephan Bader, Klimatologe bei Meteoschweiz, wohnhaft in Uetikon (also auch aus der Zürichseeregion).
+Stephan Bader, Klimatologe bei Meteoschweiz, wohnhaft in Uerikon (also auch aus der Zürichseeregion).
 
 ## Daten und Code
 
