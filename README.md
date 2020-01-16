@@ -4,9 +4,9 @@ Wie macht sich die Klimaerwärmung in der Zürichsee-Region bemerkbar? Analyse d
 
 ### Mit der Datenanalyse publizierte Artikel
 
-Klimabilanz 2019 (Zürcher Regionalzeitungen): 
-https://www.zsz.ch/horgen/ein-weiteres-jahr-der-klimaextreme/story/16430930
-Die Klimaveränderung am Zürichsee seit 1961: 
+Klimabilanz 2019 (Zürcher Regionalzeitungen): \
+https://www.zsz.ch/horgen/ein-weiteres-jahr-der-klimaextreme/story/16430930 \
+Die Klimaveränderung am Zürichsee seit 1961: \
 
 ### Idee
 
