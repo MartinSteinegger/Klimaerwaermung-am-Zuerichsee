@@ -30,6 +30,6 @@ Stephan Bader, Klimatologe bei Meteoschweiz, wohnhaft in Uetikon (also auch aus 
 
 ### Daten und Code
 
-[Code](https://www.srf.ch/sendungen/treffpunkt/influencer-die-umstrittenen-werbetraeger-der-heutigen-jugend)
+[Code](https://github.com/MartinSteinegger/Klimaerw-rmung-am-Z-richsee/blob/master/Klima%20W%C3%A4denswil.ipynb)
 
 
