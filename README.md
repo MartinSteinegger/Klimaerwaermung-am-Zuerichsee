@@ -18,9 +18,9 @@ Das Klima in der Zürichseeregion hat sich in den letzten 40 Jahren überdurchsc
 
 ## Einschätzung von Aufwand und Ertrag
 
-Die Daten sind in gut aufbereiteter Form (.xls und .txt) vorhanden. Das Einlesen der Daten dürfte nicht viel Aufwand verursachen. Komplexer ist die mathematische / grafische Schiene dieser Story. Die Durchschnittswerte müssen korrekt berechnet werden und die Charts müssen aussagekräftig sein. Der Ertrag dürfte insgesamt sehr gross sein, da sich Code/Datensatz über die kommenden Jahre hinweg mit leichten Anpassungen und Aktualisierungen immer wieder verwenden lassen! Folgestorys sind also zu erwarten.
+Die Daten sind in gut aufbereiteter Form (.xls und .txt) vorhanden. Das Einlesen der Daten dürfte nicht viel Aufwand verursachen. Komplexer ist die mathematische / grafische Schiene dieser Story. Die Durchschnittswerte müssen korrekt berechnet werden und die Charts müssen aussagekräftig sein. Der Ertrag dürfte insgesamt aber gross sein, da sich Code/Datensatz über die kommenden Jahre hinweg mit leichten Anpassungen und Aktualisierungen immer wieder verwenden lassen! Folgestorys sind also zu erwarten.
 
-## Schwierigkeiten
+## Schwierigkeiten/Knackpunkte
 
 Herausforderungen bietet vor allem die grafische Darstellung (Pandas auf Highlevel, Kombination von Python und Pandas), zudem besteht hohe Fehleranfälligkeit durch viel Rechnerei.
 
@@ -42,7 +42,3 @@ Mitte Dezember 2019: Arbeitsbeginn am Code für die Monatswerte\
 Ende Dezember 2019: Fertigstellung von Code und Grafiken für die Monatswerte, Recherche und Schreibarbeit für Klimabilanz 2019 (Veröffentlicht am 4. Januar 2020)\
 Anfang Januar 2020: Erweiterung des Codes um die Tageswerte, Erstellung der Grafiken\
 Bis Mitte Januar 2020: Laufendes "Feintuning" an Grafiken und Code. Journalistisches Gespräch mit Stephan Bader zur Einordnung der Daten, Recherche und Schreibarbeit.\
-
-
-
-
