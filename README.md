@@ -37,11 +37,11 @@ Stephan Bader, Klimatologe bei Meteoschweiz, wohnhaft in Uerikon (also auch aus 
 
 ## Arbeitsprotokoll
 
-Anfang Dezember 2019: Kontakt mit Meteoschweiz zur Datenbeschaffung, Erstes Gespräch mit Klimatologe Stephan Bader\
-Mitte Dezember 2019: Arbeitsbeginn am Code\
-Ende Dezember 2019: Fertigstellung von Code und und Grafiken für Monatstemperaturen, Recherche und Schreibarbeit für Klimabilanz 2019 (Veröffentlicht am 4. Januar 2020)\
-Anfang Januar 2020: Erweiterung des Codes um die Tagesdaten\
-Bis Mitte Januar 2020: Feintuning an Grafiken und am Code. Gespräch mit Stephan Bader zur Einordnung der Daten, Recherche und Schreibarbeit.\
+Anfang Dezember 2019: Kontakt mit Meteoschweiz zur Datenbeschaffung, Erstes Gespräch zur Einordnung mit Klimatologe Stephan Bader\
+Mitte Dezember 2019: Arbeitsbeginn am Code für die Monatswerte\
+Ende Dezember 2019: Fertigstellung von Code und Grafiken für die Monatswerte, Recherche und Schreibarbeit für Klimabilanz 2019 (Veröffentlicht am 4. Januar 2020)\
+Anfang Januar 2020: Erweiterung des Codes um die Tageswerte, Erstellung der Grafiken\
+Bis Mitte Januar 2020: Laufendes "Feintuning" an Grafiken und Code. Journalistisches Gespräch mit Stephan Bader zur Einordnung der Daten, Recherche und Schreibarbeit.\
 
 
 
