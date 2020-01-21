@@ -30,7 +30,7 @@ Stephan Bader, Klimatologe bei Meteoschweiz, wohnhaft in Uerikon (also auch aus 
 
 ## Daten und Code
 
-[Der Code](https://github.com/MartinSteinegger/Klimaerw-rmung-am-Z-richsee/blob/master/Klima%20W%C3%A4denswil.ipynb)\
+[Der Code]()\
 [Die Grafiken]\
 [Die Rohdaten](https://github.com/MartinSteinegger/Klimaerwaermung-am-Zuerichsee/tree/master/klima/waedenswil)\
 [Climate-Sheets Meteoschweiz (Normwerte)](https://github.com/MartinSteinegger/Klimaerwaermung-am-Zuerichsee/tree/master/Climate-Sheets%20Meteoschweiz)
