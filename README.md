@@ -18,11 +18,11 @@ Das Klima in der Zürichseeregion hat sich in den letzten 40 Jahren überdurchsc
 
 ## Einschätzung von Aufwand und Ertrag
 
-Die Daten sind in gut aufbereiteter Form (.xls und .txt) vorhanden. Das Einlesen der Daten dürfte nicht viel Aufwand verursachen. Komplexer ist die mathematische / grafische Schiene dieser Story. Die Durchschnittswerte müssen korrekt berechnet werden und die Charts müssen aussagekräftig sein.
+Die Daten sind in gut aufbereiteter Form (.xls und .txt) vorhanden. Das Einlesen der Daten dürfte nicht viel Aufwand verursachen. Komplexer ist die mathematische / grafische Schiene dieser Story. Die Durchschnittswerte müssen korrekt berechnet werden und die Charts müssen aussagekräftig sein. Der Ertrag dürfte insgesamt sehr gross sein, da sich Code/Datensatz über die kommenden Jahre hinweg mit leichten Anpassungen und Aktualisierungen immer wieder verwenden lassen! Folgestorys sind also zu erwarten.
 
 ## Schwierigkeiten
 
-Grafische Darstellung (Pandas auf Highlevel, Kombination von Python und Pandas), hohe Fehleranfälligkeit durch viel Rechnerei.
+Herausforderungen bietet vor allem die grafische Darstellung (Pandas auf Highlevel, Kombination von Python und Pandas), zudem besteht hohe Fehleranfälligkeit durch viel Rechnerei.
 
 ## Briefing- und Fachperson
 
@@ -34,6 +34,10 @@ Stephan Bader, Klimatologe bei Meteoschweiz, wohnhaft in Uerikon (also auch aus 
 [Die Grafiken]\
 [Die Rohdaten](https://github.com/MartinSteinegger/Klimaerwaermung-am-Zuerichsee/tree/master/klima/waedenswil)\
 [Climate-Sheets Meteoschweiz (Normwerte)](https://github.com/MartinSteinegger/Klimaerwaermung-am-Zuerichsee/tree/master/Climate-Sheets%20Meteoschweiz)
+
+## Arbeitsprotokoll
+
+Anfang Dezember 2019: Kontakt mit  
 
 
 
