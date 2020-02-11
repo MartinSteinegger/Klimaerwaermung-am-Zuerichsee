@@ -6,7 +6,8 @@ Wie macht sich die Klimaerwärmung in der Zürichsee-Region bemerkbar? Analyse d
 
 Klimabilanz 2019 (Zürcher Regionalzeitungen): \
 https://www.zsz.ch/horgen/ein-weiteres-jahr-der-klimaextreme/story/16430930 \
-Die Klimaveränderung am Zürichsee seit 1961 (Zürcher Regionalzeitungen):
+Die Klimaveränderung am Zürichsee seit 1961 (Zürcher Regionalzeitungen) => noch nicht publiziert, erscheint erst im März!
+https://www.zsz.ch/horgen/Aus-vier-werden-zwei-Jahreszeiten/story/16766857?cache=9efAwefu
 
 ## Idee und Ausgangslage
 
