@@ -15,7 +15,7 @@ Die Auswirkungen der Klimaerwärmung werden immer deutlicher. Die Durchschnittst
 
 ## Die These
 
-Das Klima in der Zürichseeregion hat sich in den letzten 40 Jahren überdurchschnittlich stark erwärmt (im Vergleich zu den über die ganze Schweiz gemittelten Werten). Der Trend zur Erwärmung zeigt sich über alle Jahreszeiten, besonders markant aber im Sommer und in den Übergangsmonaten (Frühling, Herbst). Beim Niederschlag ist anhand der Daten (noch) kein eindeutiger Trend zu beobachten. Tendenziell ist jedoch kein Trend zur Trockenheit zu erwarten, da die Region sich in unmittelbarer Nähe zu den Voralpen befindet (Staueffekte). Die Erwärmung zeigt sich auch in einer Zunahme der Hitzetage (über 30 Grad) und einer gleichzeitigen Abnahme der Kältesumme im Winter.
+Das Klima in der Zürichseeregion hat sich in den letzten 40 Jahren stark erwärmt. Der Trend zur Erwärmung zeigt sich über alle Jahreszeiten, besonders markant aber im Sommer und in den Übergangsmonaten (Frühling, Herbst). Beim Niederschlag ist anhand der Daten (noch) kein eindeutiger Trend zu beobachten. Tendenziell ist jedoch kein Trend zur Trockenheit zu erwarten, da die Region sich in unmittelbarer Nähe zu den Voralpen befindet (Staueffekte). Die Erwärmung zeigt sich auch in einer Zunahme der Hitzetage (über 30 Grad) und einer gleichzeitigen Abnahme der Kältesumme im Winter.
 
 ## Einschätzung von Aufwand und Ertrag
 
