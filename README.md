@@ -27,7 +27,7 @@ Herausforderungen bietet vor allem die grafische Darstellung (Pandas auf Highlev
 
 ## Briefing- und Fachperson
 
-Stephan Bader, Klimatologe bei Meteoschweiz, wohnhaft in Uerikon (also auch aus der Zürichseeregion).
+Stephan Bader, Klimatologe bei Meteoschweiz, wohnhaft in Uerikon (also auch aus der Zürichseeregion). Abschliessendes Briefing mit Grafik- und Datencheck am 10.2.2020. Seine Aussagen sind im Wesentlichen in der Hauptstory enthalten.
 
 ## Daten und Code
 
